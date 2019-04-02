@@ -1,6 +1,7 @@
 const expect = chai.expect;
 
 describe('crewMember.js', () => {
+  /*
   let tristan, jon, katie;
   beforeEach(() => {
     tristan = new CrewMember('Pilot');
@@ -23,4 +24,5 @@ describe('crewMember.js', () => {
     expect(jon.setsInvisibility()).to.match(/had no effect/i);
     expect(katie.chargePhasers()).to.match(/had no effect/i);
   });
+  */
 });
