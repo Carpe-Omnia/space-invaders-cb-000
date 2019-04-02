@@ -1,5 +1,9 @@
  describe('spaceShip.js', () => {
+   it('should work'), () => {
+     expect(1).to.eq(1);
+   }
    /*
+
   describe('Spaceship', () => {
     let spaceship;
     beforeEach(() => {
