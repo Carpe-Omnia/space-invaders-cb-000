@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/learn-co-curriculum/space-invaders#readme",
   "devDependencies": {
+    "chai": "^4.2.0",
     "learn-browser": "^0.1.14"
   }
 }
