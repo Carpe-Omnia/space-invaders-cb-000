@@ -1,5 +1,5 @@
  describe('spaceShip.js', () => {
-   it('should work'), () => {
+   it('should work', () => {
      expect(1).to.eq(1);
    })
    /*
